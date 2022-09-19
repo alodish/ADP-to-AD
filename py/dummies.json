@@ -1,0 +1,3850 @@
+{
+    "workers": [
+        {
+            "associateOID": "I6UTZ08A3K0XOKJK",
+            "person": {
+                "legalName": {
+                    "givenName": "Ellison",
+                    "middleName": "Raelyn",
+                    "familyName1": "Stokes",
+                    "nickName": "Paola",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "74098 Overheal Road",
+                    "cityName": "Uninitiated",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "NY",
+                        "shortName": "New York"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 84264
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 674,
+                            "dialNumber": 3722603
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH Marketing"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Corporate Consultant",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "ZZ9"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2014-7-25"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Terminated"
+                }
+            }
+        },
+        {
+            "associateOID": "V3VI4S148TM5XRIQ",
+            "person": {
+                "legalName": {
+                    "givenName": "Brandon",
+                    "middleName": "Heath",
+                    "familyName1": "Fletcher",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "48816 Scooters Way",
+                    "cityName": "Multigenerous",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "UT",
+                        "shortName": "Utah"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 82522
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 690,
+                            "dialNumber": 7674487
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH Deployment"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Development Intern",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2010-3-8"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Terminated"
+                }
+            }
+        },
+        {
+            "associateOID": "SHWSHFULD5ODHVC6",
+            "person": {
+                "legalName": {
+                    "givenName": "Sophie",
+                    "familyName1": "Ortiz",
+                    "genderCode": {
+                        "codeValue": "F"
+                    },
+                    "nickName": "Samantha"
+                },
+                "legalAddress": {
+                    "lineOne": "87647 Tropological Way",
+                    "cityName": "Geocoin",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "ID",
+                        "shortName": "Idaho"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 44772
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 500,
+                            "dialNumber": 8931467
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH HQ"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Project Manager",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2008-8-24"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "MVGB7TH4NVBZFVAK",
+            "person": {
+                "legalName": {
+                    "givenName": "Joel",
+                    "familyName1": "Herman",
+                    "nickName": "Crew",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "23194 Halakah Avenue",
+                    "cityName": "Urine",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "ME",
+                        "shortName": "Maine"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 33566
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 524,
+                            "dialNumber": 9594454
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "BlueHive Development"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Deployment Manager",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2011-5-10"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "0M5ARUN1TCB0CMFR",
+            "person": {
+                "legalName": {
+                    "givenName": "Gracie",
+                    "familyName1": "Hancock",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "75629 Unpilfered Lane",
+                    "cityName": "Two-fold",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "AR",
+                        "shortName": "Arkansas"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 74288
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 453,
+                            "dialNumber": 4582400
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH Sales"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Deployment Manager",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2010-7-1"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "E2KQH6IM42P3CVTZ",
+            "person": {
+                "legalName": {
+                    "givenName": "Ernesto",
+                    "familyName1": "Shelton",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "67169 Depopulates Lane",
+                    "cityName": "Stercoral",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "NC",
+                        "shortName": "North Carolina"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 29514
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 810,
+                            "dialNumber": 5567663
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH Project Management"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Staff Accountant",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2008-10-16"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "5C0JHM0YBNGXTHHS",
+            "person": {
+                "legalName": {
+                    "givenName": "Zechariah",
+                    "familyName1": "Tran",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "62636 Proprieties Road",
+                    "cityName": "Furnishes",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "OH",
+                        "shortName": "Ohio"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 64493
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 917,
+                            "dialNumber": 5611593
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "NoMoreClipboard"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Software Engineer I",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "3EJ"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2016-12-3"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "27SNGZLAD6J19MHJ",
+            "person": {
+                "legalName": {
+                    "givenName": "Declan",
+                    "familyName1": "Woodward",
+                    "nickName": "Austin",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "89085 Nonsugar Street",
+                    "cityName": "Wrong-headedly",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "CA",
+                        "shortName": "California"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 64996
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 965,
+                            "dialNumber": 5522060
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "Development"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Software Engineer",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2020-3-1"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "DUP9HNFF4TM9T832",
+            "person": {
+                "legalName": {
+                    "givenName": "Alberto",
+                    "middleName": "Brock",
+                    "familyName1": "Rasmussen",
+                    "nickName": "Benicio",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "62877 Trifid Place",
+                    "cityName": "Clickwraps",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "KS",
+                        "shortName": "Kansas"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 25846
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 992,
+                            "dialNumber": 8890529
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE Software Engineering"
+                            }
+                        }
+                    ],
+                    "jobTitle": "IT Business Analyst",
+                    "reportsTo": {
+                        "associateOID": "G3TGKWBEMH68TCM8",
+                        "reportsToWorkerName": {
+                            "givenName": "Andrew",
+                            "familyName1": "Horner"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2013-8-18"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Terminated"
+                }
+            }
+        },
+        {
+            "associateOID": "1RCWVBFMGDZ7QBJD",
+            "person": {
+                "legalName": {
+                    "givenName": "Natasha",
+                    "middleName": "Aya",
+                    "familyName1": "Chung",
+                    "nickName": "Harlee",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "8827 Lodestars Avenue",
+                    "cityName": "Primatologists",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "VT",
+                        "shortName": "Vermont"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 18923
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 622,
+                            "dialNumber": 8551174
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH Customer Success"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Project Manager",
+                    "reportsTo": {
+                        "associateOID": "G3TGKWBEMH68TCM8",
+                        "reportsToWorkerName": {
+                            "givenName": "Andrew",
+                            "familyName1": "Horner"
+                        }
+                    },
+                    "payrollGroupCode": "ZZ9"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2020-8-13"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Terminated"
+                }
+            }
+        },
+        {
+            "associateOID": "LAUVB6YHVIBMU82Y",
+            "person": {
+                "legalName": {
+                    "givenName": "Rosalia",
+                    "middleName": "Shiloh",
+                    "familyName1": "Lugo",
+                    "nickName": "Aniya",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "21732 Compline Lane",
+                    "cityName": "Photoartist",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "NH",
+                        "shortName": "New Hampshire"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 57207
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 705,
+                            "dialNumber": 6638851
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE Systems Engineering"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Software Developer",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "ZZ9"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2014-12-9"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "3QC8X4AT01S33K1S",
+            "person": {
+                "legalName": {
+                    "givenName": "Naya",
+                    "familyName1": "Hicks",
+                    "genderCode": {
+                        "codeValue": "F"
+                    },
+                    "nickName": "Itzel"
+                },
+                "legalAddress": {
+                    "lineOne": "93404 Peroxy Lane",
+                    "cityName": "Overhaul",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "SC",
+                        "shortName": "South Carolina"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 95881
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 411,
+                            "dialNumber": 7418586
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "BlueHive Development"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Software Engineer I",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2008-9-22"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "70EUGCSP7D5OWGHX",
+            "person": {
+                "legalName": {
+                    "givenName": "Hayley",
+                    "familyName1": "Johnston",
+                    "nickName": "Jacqueline",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "90463 Disrepair Lane",
+                    "cityName": "Unweary",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "OK",
+                        "shortName": "Oklahoma"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 29681
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 766,
+                            "dialNumber": 7437617
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH Project Management"
+                            }
+                        }
+                    ],
+                    "jobTitle": "IT Business Analyst",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2018-9-7"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "05R297UGWLKX40V1",
+            "person": {
+                "legalName": {
+                    "givenName": "Brantley",
+                    "middleName": "Corbin",
+                    "familyName1": "\u00c1vila",
+                    "nickName": "Zaid",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "80163 Dybbuk Street",
+                    "cityName": "Repopulated",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "OK",
+                        "shortName": "Oklahoma"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 87965
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 925,
+                            "dialNumber": 6483491
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH Marketing"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Software Engineer I",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "3EJ"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2011-7-6"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "ALU8HJI5V84X6LNW",
+            "person": {
+                "legalName": {
+                    "givenName": "Kaisley",
+                    "middleName": "Galilea",
+                    "familyName1": "Jackson",
+                    "nickName": "Emery",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "12964 Outlandish Street",
+                    "cityName": "Undeadly",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "ME",
+                        "shortName": "Maine"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 63024
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 358,
+                            "dialNumber": 8972645
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH HQ"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Corporate Consultant",
+                    "reportsTo": {
+                        "associateOID": "G3TGKWBEMH68TCM8",
+                        "reportsToWorkerName": {
+                            "givenName": "Andrew",
+                            "familyName1": "Horner"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2020-11-19"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "EKVC2WKD9N2M171K",
+            "person": {
+                "legalName": {
+                    "givenName": "Bellamy",
+                    "familyName1": "Esparza",
+                    "nickName": "Matilda",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "41198 Unkindredly Place",
+                    "cityName": "Posh 'n' becks",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "OH",
+                        "shortName": "Ohio"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 83861
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 468,
+                            "dialNumber": 5777587
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "BlueHive"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Software Engineer I",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2009-10-27"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "56K3A3XFC7YLXGBC",
+            "person": {
+                "legalName": {
+                    "givenName": "Alani",
+                    "familyName1": "Huynh",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "41103 Cantonalism Place",
+                    "cityName": "Midchest",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "TX",
+                        "shortName": "Texas"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 81947
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 693,
+                            "dialNumber": 3243330
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "Development"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Product Specialist I",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2009-12-8"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "DF2QK24KHJN3PZXF",
+            "person": {
+                "legalName": {
+                    "givenName": "Joelle",
+                    "middleName": "Murphy",
+                    "familyName1": "Stark",
+                    "nickName": "Karsyn",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "55371 Doore Avenue",
+                    "cityName": "Freetail",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "OH",
+                        "shortName": "Ohio"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 81146
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 960,
+                            "dialNumber": 6912485
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH Marketing"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Software Engineer II",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2017-12-11"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "IQSJ1O1XAPSOR02P",
+            "person": {
+                "legalName": {
+                    "givenName": "Renata",
+                    "middleName": "Adelynn",
+                    "familyName1": "Hickman",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "47542 Tightener Place",
+                    "cityName": "Reflooding",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "NE",
+                        "shortName": "Nebraska"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 51496
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 379,
+                            "dialNumber": 8761494
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "Data Center"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Deployment Manager",
+                    "reportsTo": {
+                        "associateOID": "G3TGKWBEMH68TCM8",
+                        "reportsToWorkerName": {
+                            "givenName": "Andrew",
+                            "familyName1": "Horner"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2022-9-16"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "YWTB1XFHBYLBMH2P",
+            "person": {
+                "legalName": {
+                    "givenName": "Kash",
+                    "familyName1": "Thompson",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "58172 Oleins Place",
+                    "cityName": "Flerd",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "SD",
+                        "shortName": "South Dakota"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 32478
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 635,
+                            "dialNumber": 7945113
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH Deployment"
+                            }
+                        }
+                    ],
+                    "jobTitle": "IT Business Analyst",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2017-6-26"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "IN8F0FVTL8VDN8C2",
+            "person": {
+                "legalName": {
+                    "givenName": "Rebekah",
+                    "familyName1": "Dean",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "78949 Jewel-drawer Road",
+                    "cityName": "Emergently",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "NC",
+                        "shortName": "North Carolina"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 86102
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 425,
+                            "dialNumber": 6044187
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "Enterprise Health"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Training Manager",
+                    "reportsTo": {
+                        "associateOID": "G3TGKWBEMH68TCM8",
+                        "reportsToWorkerName": {
+                            "givenName": "Andrew",
+                            "familyName1": "Horner"
+                        }
+                    },
+                    "payrollGroupCode": "3EJ"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2020-4-12"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Terminated"
+                }
+            }
+        },
+        {
+            "associateOID": "73J1K5SPFNQ412M4",
+            "person": {
+                "legalName": {
+                    "givenName": "Harley",
+                    "middleName": "Ignacio",
+                    "familyName1": "Best",
+                    "genderCode": {
+                        "codeValue": "M"
+                    },
+                    "nickName": "Messiah"
+                },
+                "legalAddress": {
+                    "lineOne": "525 Visualizable Lane",
+                    "cityName": "Remise",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "ND",
+                        "shortName": "North Dakota"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 18124
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 591,
+                            "dialNumber": 9783623
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "WebChart Sales & Business Dev"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Account Manager",
+                    "reportsTo": {
+                        "associateOID": "G3TGKWBEMH68TCM8",
+                        "reportsToWorkerName": {
+                            "givenName": "Andrew",
+                            "familyName1": "Horner"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2017-2-6"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "HD9Z21M57B20RZVF",
+            "person": {
+                "legalName": {
+                    "givenName": "Moses",
+                    "familyName1": "Hampton",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "15949 Bean-shaped Street",
+                    "cityName": "Versants",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "OR",
+                        "shortName": "Oregon"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 19118
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 929,
+                            "dialNumber": 7368638
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "BlueHive Sales & Business Dev"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Staff Accountant",
+                    "reportsTo": {
+                        "associateOID": "G3TGKWBEMH68TCM8",
+                        "reportsToWorkerName": {
+                            "givenName": "Andrew",
+                            "familyName1": "Horner"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2011-11-5"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "EEXBTRPW8SG4YBX1",
+            "person": {
+                "legalName": {
+                    "givenName": "Margo",
+                    "familyName1": "Travis",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "97523 Remembrancer Street",
+                    "cityName": "Unincidental",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "MT",
+                        "shortName": "Montana"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 15786
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 505,
+                            "dialNumber": 3604494
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "Marketing"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Technical Writer",
+                    "reportsTo": {
+                        "associateOID": "G3TGKWBEMH68TCM8",
+                        "reportsToWorkerName": {
+                            "givenName": "Andrew",
+                            "familyName1": "Horner"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2010-9-7"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Terminated"
+                }
+            }
+        },
+        {
+            "associateOID": "6327X49AXGPVVKMY",
+            "person": {
+                "legalName": {
+                    "givenName": "Javier",
+                    "familyName1": "Jensen",
+                    "nickName": "Bo",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "41036 Complexed Street",
+                    "cityName": "Vibrate",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "RI",
+                        "shortName": "Rhode Island"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 13066
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 782,
+                            "dialNumber": 3343646
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE Systems Engineering"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Account Executive",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2017-3-13"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Terminated"
+                }
+            }
+        },
+        {
+            "associateOID": "DHWQWMCCI14IXXLJ",
+            "person": {
+                "legalName": {
+                    "givenName": "Lilith",
+                    "familyName1": "Mcmahon",
+                    "nickName": "Aliana",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "28602 Valanche Place",
+                    "cityName": "Untightened",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "ID",
+                        "shortName": "Idaho"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 59715
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 945,
+                            "dialNumber": 7381870
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE Human Resource"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Software Developer",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2008-1-20"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "XIOCKU42EFQNCGB1",
+            "person": {
+                "legalName": {
+                    "givenName": "Aylin",
+                    "familyName1": "Gibson",
+                    "nickName": "Reign",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "29082 Nonattender Lane",
+                    "cityName": "Jumbles",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "NV",
+                        "shortName": "Nevada"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 85572
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 751,
+                            "dialNumber": 8767219
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE IT HQ"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Technical Writer",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2022-8-27"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "5KK2126KIBR5YYUX",
+            "person": {
+                "legalName": {
+                    "givenName": "Dayana",
+                    "middleName": "Jolie",
+                    "familyName1": "Kline",
+                    "nickName": "Eliza",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "94542 Phototube Way",
+                    "cityName": "Summons",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "KY",
+                        "shortName": "Kentucky"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 16612
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 714,
+                            "dialNumber": 4902440
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "NoMoreClipboard"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Development Intern",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2010-5-9"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Terminated"
+                }
+            }
+        },
+        {
+            "associateOID": "OTV2YZ11RYXNG6IP",
+            "person": {
+                "legalName": {
+                    "givenName": "Rene",
+                    "middleName": "Madden",
+                    "familyName1": "Parra",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "82512 Easily Road",
+                    "cityName": "Magazines",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "KY",
+                        "shortName": "Kentucky"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 32245
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 616,
+                            "dialNumber": 5894274
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE IT HQ"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Web Developer I",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "3EJ"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2018-6-24"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "X33Z7R16L13D6J0U",
+            "person": {
+                "legalName": {
+                    "givenName": "Marie",
+                    "middleName": "Bella",
+                    "familyName1": "Yoder",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "67486 Indignity Street",
+                    "cityName": "Vestium",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "VA",
+                        "shortName": "Virginia"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 29212
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 354,
+                            "dialNumber": 4175631
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "Data Center"
+                            }
+                        }
+                    ],
+                    "jobTitle": "IT Business Analyst",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2021-6-4"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "GG3219PCCC07E7HQ",
+            "person": {
+                "legalName": {
+                    "givenName": "Skyler",
+                    "familyName1": "Walls",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "15317 Bacterian Street",
+                    "cityName": "Prisonradio",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "CT",
+                        "shortName": "Connecticut"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 59415
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 910,
+                            "dialNumber": 4914658
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE Finance and Accounting"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Corporate Consultant",
+                    "reportsTo": {
+                        "associateOID": "G3TGKWBEMH68TCM8",
+                        "reportsToWorkerName": {
+                            "givenName": "Andrew",
+                            "familyName1": "Horner"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2022-6-16"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "0658566LZLHW8MEK",
+            "person": {
+                "legalName": {
+                    "givenName": "Lara",
+                    "familyName1": "Carter",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "89610 Chenopodiaceae Way",
+                    "cityName": "Haganah",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "OK",
+                        "shortName": "Oklahoma"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 28504
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 528,
+                            "dialNumber": 6336947
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE Security & Risk Assessment"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Software Developer",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "ZZ9"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2009-8-1"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "71LI7A90XGEG95QM",
+            "person": {
+                "legalName": {
+                    "givenName": "Samira",
+                    "familyName1": "Patterson",
+                    "nickName": "Ivory",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "13107 Negroidal Street",
+                    "cityName": "Bause",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "OR",
+                        "shortName": "Oregon"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 98994
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 389,
+                            "dialNumber": 9721461
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE Tech Support"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Human Resource",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2022-3-23"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "MFSZUDO98KMOID1P",
+            "person": {
+                "legalName": {
+                    "givenName": "Alonzo",
+                    "familyName1": "Nichols",
+                    "nickName": "Peter",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "51817 Shearing Street",
+                    "cityName": "Unaxed",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "OK",
+                        "shortName": "Oklahoma"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 39606
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 628,
+                            "dialNumber": 7710583
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "WebChart Sales & Business Dev"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Software Engineer",
+                    "reportsTo": {
+                        "associateOID": "G3TGKWBEMH68TCM8",
+                        "reportsToWorkerName": {
+                            "givenName": "Andrew",
+                            "familyName1": "Horner"
+                        }
+                    },
+                    "payrollGroupCode": "3EJ"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2017-11-20"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "XYGMTTJKDAOQKQVM",
+            "person": {
+                "legalName": {
+                    "givenName": "Tatiana",
+                    "middleName": "Ashlyn",
+                    "familyName1": "Daugherty",
+                    "nickName": "Alice",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "30798 Softens Lane",
+                    "cityName": "Undelighted",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "SC",
+                        "shortName": "South Carolina"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 93368
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 711,
+                            "dialNumber": 5750568
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "BlueHive"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Account Manager",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2019-3-8"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "MMIXGFPRLK440TI1",
+            "person": {
+                "legalName": {
+                    "givenName": "Colette",
+                    "familyName1": "Carrillo",
+                    "nickName": "Kali",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "19130 Radula Avenue",
+                    "cityName": "Meanderers",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "IL",
+                        "shortName": "Illinois"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 77909
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 587,
+                            "dialNumber": 3001621
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "Enterprise Health"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Account Executive",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2014-4-16"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "A9UCIUJ1AMRDQV7D",
+            "person": {
+                "legalName": {
+                    "givenName": "Eden",
+                    "familyName1": "Huffman",
+                    "nickName": "Jair",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "93886 Cross-rib Road",
+                    "cityName": "Navarino",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "GA",
+                        "shortName": "Georgia"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 69562
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 827,
+                            "dialNumber": 3318125
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE Finance and Accounting"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Training Manager",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "ZZ9"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2016-9-19"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "YDA924DL8MCE1N9S",
+            "person": {
+                "legalName": {
+                    "givenName": "Fabian",
+                    "middleName": "Ryan",
+                    "familyName1": "Ayala",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "55158 Hakodate Street",
+                    "cityName": "Touchous",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "KY",
+                        "shortName": "Kentucky"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 77544
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 597,
+                            "dialNumber": 7013302
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "Enterprise Health"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Product Specialist I",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2017-10-4"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "F16KB16FBTSX977P",
+            "person": {
+                "legalName": {
+                    "givenName": "Julianna",
+                    "familyName1": "Cochran",
+                    "nickName": "Madisyn",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "11285 Obliteratingly Street",
+                    "cityName": "Luges",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "MI",
+                        "shortName": "Michigan"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 43511
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 545,
+                            "dialNumber": 4636511
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "Enterprise Health"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Product Specialist I",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "ZZ9"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2011-9-18"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "R4AFX88FPJCIC8BB",
+            "person": {
+                "legalName": {
+                    "givenName": "Jasmine",
+                    "familyName1": "Carey",
+                    "nickName": "Hadlee",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "82987 Unlustrous Lane",
+                    "cityName": "Hipshot",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "ME",
+                        "shortName": "Maine"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 86815
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 487,
+                            "dialNumber": 5089252
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH Marketing"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Account Manager",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "ZZ9"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2021-3-19"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Terminated"
+                }
+            }
+        },
+        {
+            "associateOID": "KZ0NNOET4B77BZJP",
+            "person": {
+                "legalName": {
+                    "givenName": "Charlie",
+                    "middleName": "Hamza",
+                    "familyName1": "Mills",
+                    "nickName": "Yisroel",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "92143 Oxidizer Place",
+                    "cityName": "Tall-stalked",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "MI",
+                        "shortName": "Michigan"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 78420
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 565,
+                            "dialNumber": 6376252
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE DevOps"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Software Engineer",
+                    "reportsTo": {
+                        "associateOID": "G3TGKWBEMH68TCM8",
+                        "reportsToWorkerName": {
+                            "givenName": "Andrew",
+                            "familyName1": "Horner"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2020-4-17"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Terminated"
+                }
+            }
+        },
+        {
+            "associateOID": "SNU1T6DYZA42L504",
+            "person": {
+                "legalName": {
+                    "givenName": "Seth",
+                    "middleName": "Jesse",
+                    "familyName1": "Crawford",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "15276 Dissolv Lane",
+                    "cityName": "Ice-minus",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "IA",
+                        "shortName": "Iowa"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 32556
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 487,
+                            "dialNumber": 6529435
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "BlueHive Sales & Business Dev"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Technical Writer",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2009-11-25"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Terminated"
+                }
+            }
+        },
+        {
+            "associateOID": "NAIWGDJQTHWTH4PK",
+            "person": {
+                "legalName": {
+                    "givenName": "Hayden",
+                    "middleName": "Bowie",
+                    "familyName1": "Snyder",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "974 Rumrunner Place",
+                    "cityName": "Bawdily",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "AK",
+                        "shortName": "Alaska"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 90692
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 473,
+                            "dialNumber": 4784848
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH Customer Success"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Training Manager",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2022-12-27"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "KZLN6QYLDK4OVRW5",
+            "person": {
+                "legalName": {
+                    "givenName": "Cruz",
+                    "familyName1": "Hobbs",
+                    "nickName": "Korbin",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "87817 Imitating Place",
+                    "cityName": "Electroscopic",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "MS",
+                        "shortName": "Mississippi"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 33239
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 799,
+                            "dialNumber": 4787273
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "BlueHive"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Software Engineer",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "3EJ"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2020-6-11"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "B4Y0HSJGBA563T4T",
+            "person": {
+                "legalName": {
+                    "givenName": "Frank",
+                    "middleName": "Luca",
+                    "familyName1": "Blankenship",
+                    "nickName": "Cal",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "59212 Remonstrance Way",
+                    "cityName": "Twinkled",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "MN",
+                        "shortName": "Minnesota"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 41624
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 531,
+                            "dialNumber": 6007373
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH Project Management"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Deployment Manager",
+                    "reportsTo": {
+                        "associateOID": "G3TGKWBEMH68TCM8",
+                        "reportsToWorkerName": {
+                            "givenName": "Andrew",
+                            "familyName1": "Horner"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2019-3-11"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "Q98W06TX891QFL3G",
+            "person": {
+                "legalName": {
+                    "givenName": "Alice",
+                    "middleName": "Clare",
+                    "familyName1": "Haynes",
+                    "nickName": "Penelope",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "53830 Cofferer Road",
+                    "cityName": "Overfell",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "AK",
+                        "shortName": "Alaska"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 23126
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 637,
+                            "dialNumber": 7438275
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE Project Management"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Software Engineer",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2016-1-4"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "G99KFJBNIXTSFZBH",
+            "person": {
+                "legalName": {
+                    "givenName": "Wesson",
+                    "familyName1": "Weaver",
+                    "nickName": "Leonardo",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "13973 Rosewood-oil Way",
+                    "cityName": "Rutherfordium",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "VT",
+                        "shortName": "Vermont"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 99249
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 760,
+                            "dialNumber": 6546550
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE Security & Risk Assessment"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Deployment Manager",
+                    "reportsTo": {
+                        "associateOID": "G3TGKWBEMH68TCM8",
+                        "reportsToWorkerName": {
+                            "givenName": "Andrew",
+                            "familyName1": "Horner"
+                        }
+                    },
+                    "payrollGroupCode": "3EJ"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2008-11-9"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "ITGR1FP62YLUF0CK",
+            "person": {
+                "legalName": {
+                    "givenName": "Rodney",
+                    "familyName1": "Compton",
+                    "nickName": "Shepard",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "4610 Spring Way",
+                    "cityName": "Pammela",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "NM",
+                        "shortName": "New Mexico"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 79779
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 738,
+                            "dialNumber": 7884651
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE Finance and Accounting"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Development Intern",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "ZZ9"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2011-2-19"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "REFTZZ1U9Y1BFS2Q",
+            "person": {
+                "legalName": {
+                    "givenName": "Michelle",
+                    "middleName": "Lilian",
+                    "familyName1": "Phan",
+                    "nickName": "Alora",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "51985 Bush-weakened Road",
+                    "cityName": "Bepuffed",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "OH",
+                        "shortName": "Ohio"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 80794
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 948,
+                            "dialNumber": 7357389
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "BlueHive Sales & Business Dev"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Project Manager",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "ZZ9"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2020-9-8"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "R0VZP51QO8O3167U",
+            "person": {
+                "legalName": {
+                    "givenName": "Zayd",
+                    "middleName": "Amos",
+                    "familyName1": "Hicks",
+                    "genderCode": {
+                        "codeValue": "M"
+                    },
+                    "nickName": "Gary"
+                },
+                "legalAddress": {
+                    "lineOne": "36475 Trisoctahedron Place",
+                    "cityName": "Uncus",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "WV",
+                        "shortName": "West Virginia"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 65601
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 791,
+                            "dialNumber": 9759601
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE Human Resource"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Web Developer I",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2019-10-5"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Terminated"
+                }
+            }
+        },
+        {
+            "associateOID": "H5RQ77PZMG6UQBIC",
+            "person": {
+                "legalName": {
+                    "givenName": "Shepard",
+                    "middleName": "Kellan",
+                    "familyName1": "Hines",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "73969 Undoctored Lane",
+                    "cityName": "Typecasts",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "WY",
+                        "shortName": "Wyoming"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 64454
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 744,
+                            "dialNumber": 7890976
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH Marketing"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Account Executive",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2014-1-9"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "KC2S01KBH4DRP8YD",
+            "person": {
+                "legalName": {
+                    "givenName": "Layne",
+                    "familyName1": "Mcdowell",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "69564 Sweet-box Way",
+                    "cityName": "Chiaous",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "ME",
+                        "shortName": "Maine"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 18137
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 375,
+                            "dialNumber": 5777270
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH Marketing"
+                            }
+                        }
+                    ],
+                    "jobTitle": "IT Business Analyst",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2011-2-27"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "RDF7ALOP1EY8UKLI",
+            "person": {
+                "legalName": {
+                    "givenName": "Amelia",
+                    "familyName1": "Ortega",
+                    "nickName": "Zoey",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "63773 Hydrangea Place",
+                    "cityName": "Writedown",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "OK",
+                        "shortName": "Oklahoma"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 64883
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 754,
+                            "dialNumber": 5354238
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH Customer Success"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Software Engineer II",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2012-4-2"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Terminated"
+                }
+            }
+        },
+        {
+            "associateOID": "4BI9I5GKOFSM73M2",
+            "person": {
+                "legalName": {
+                    "givenName": "Jorge",
+                    "middleName": "Jeremy",
+                    "familyName1": "Roach",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "45814 Feebly Street",
+                    "cityName": "Tussocky",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "MA",
+                        "shortName": "Massachusetts"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 83908
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 637,
+                            "dialNumber": 3410527
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "Webchart"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Staff Accountant",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2014-11-25"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "C8DOX91ZB041P9NX",
+            "person": {
+                "legalName": {
+                    "givenName": "Tyson",
+                    "middleName": "Jared",
+                    "familyName1": "Chen",
+                    "nickName": "Osman",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "41544 Excitive Avenue",
+                    "cityName": "Straw-built",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "NV",
+                        "shortName": "Nevada"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 17638
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 702,
+                            "dialNumber": 8538791
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "Development"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Account Executive",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2008-8-10"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "IJG5277Z411YJHOD",
+            "person": {
+                "legalName": {
+                    "givenName": "Memphis",
+                    "middleName": "Khalid",
+                    "familyName1": "Shields",
+                    "nickName": "Moses",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "66277 Vote-by-mail Avenue",
+                    "cityName": "Trigger-happy",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "OH",
+                        "shortName": "Ohio"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 94938
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 525,
+                            "dialNumber": 9249607
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "NoMoreClipboard"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Product Specialist I",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2016-8-13"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "BQ1JTNAAPUU39YCI",
+            "person": {
+                "legalName": {
+                    "givenName": "Helen",
+                    "familyName1": "Duke",
+                    "nickName": "Harley",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "69936 Maria theresa Street",
+                    "cityName": "Spring-box",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "WI",
+                        "shortName": "Wisconsin"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 82282
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 861,
+                            "dialNumber": 9423288
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE DevOps"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Deployment Manager",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2013-1-14"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "G3RBRYPGQGCX015B",
+            "person": {
+                "legalName": {
+                    "givenName": "Zayla",
+                    "familyName1": "Cohen",
+                    "nickName": "Harmoni",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "87960 Flitch Way",
+                    "cityName": "Sleaze",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "ME",
+                        "shortName": "Maine"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 80570
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 406,
+                            "dialNumber": 3282662
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE Tech Support"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Account Manager",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2011-12-4"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "I7ET6XDZIQANFU9Z",
+            "person": {
+                "legalName": {
+                    "givenName": "Lauryn",
+                    "middleName": "Gianna",
+                    "familyName1": "Huerta",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "13450 Saltly Avenue",
+                    "cityName": "Rivery",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "MA",
+                        "shortName": "Massachusetts"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 56895
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 785,
+                            "dialNumber": 8551190
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "EH Marketing"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Account Executive",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "3EJ"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2020-8-7"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "5PTTCLVLFIZSEYNY",
+            "person": {
+                "legalName": {
+                    "givenName": "Dariel",
+                    "familyName1": "Christian",
+                    "nickName": "Abel",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "20585 Thickens Way",
+                    "cityName": "Antivenereal",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "WA",
+                        "shortName": "Washington"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 94786
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 767,
+                            "dialNumber": 6159764
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "MIE DevOps"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Deployment Manager",
+                    "reportsTo": {
+                        "associateOID": "G3ZYWH2X2YNJZ3V3",
+                        "reportsToWorkerName": {
+                            "givenName": "Valerie",
+                            "familyName1": "McKain"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2016-1-13"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Terminated"
+                }
+            }
+        },
+        {
+            "associateOID": "7X51P8YRWNHGK0VQ",
+            "person": {
+                "legalName": {
+                    "givenName": "Matteo",
+                    "middleName": "Dario",
+                    "familyName1": "Mitchell",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "49146 Infere Avenue",
+                    "cityName": "Wrongously",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "ID",
+                        "shortName": "Idaho"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 16102
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 614,
+                            "dialNumber": 6303174
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "WebChart Sales & Business Dev"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Training Manager",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2008-5-20"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "5591WVQFGPHS4GV1",
+            "person": {
+                "legalName": {
+                    "givenName": "Darian",
+                    "middleName": "Lucca",
+                    "familyName1": "Henson",
+                    "genderCode": {
+                        "codeValue": "M"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "82840 Mathematically Place",
+                    "cityName": "Port charlotte",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "MO",
+                        "shortName": "Missouri"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 98975
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 661,
+                            "dialNumber": 8519732
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "NoMoreClipboard"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Deployment Manager",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2022-8-16"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "MKBOKK7451L31SFK",
+            "person": {
+                "legalName": {
+                    "givenName": "Khaleesi",
+                    "familyName1": "Moss",
+                    "nickName": "Skylar",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "78977 Obstructive Way",
+                    "cityName": "Heroical",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "MS",
+                        "shortName": "Mississippi"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 29456
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 763,
+                            "dialNumber": 6606841
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "Marketing"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Software Developer",
+                    "reportsTo": {
+                        "associateOID": "G3PHKM05VKGQAATW",
+                        "reportsToWorkerName": {
+                            "givenName": "William",
+                            "familyName1": "White"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2021-6-21"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        },
+        {
+            "associateOID": "S3K5LZB3IN8PD57N",
+            "person": {
+                "legalName": {
+                    "givenName": "Rosa",
+                    "middleName": "Melany",
+                    "familyName1": "Portillo",
+                    "genderCode": {
+                        "codeValue": "F"
+                    }
+                },
+                "legalAddress": {
+                    "lineOne": "54391 Triggering Way",
+                    "cityName": "Agreeably",
+                    "countrySubdivisionLevel1": {
+                        "codeValue": "TN",
+                        "shortName": "Tennessee"
+                    },
+                    "countryCode": "US",
+                    "postalCode": 91867
+                },
+                "communication": {
+                    "mobiles": [
+                        {
+                            "countryDialing": 1,
+                            "areaDialing": 590,
+                            "dialNumber": 5284520
+                        }
+                    ]
+                }
+            },
+            "workAssignments": [
+                {
+                    "homeOrganizationalUnits": [
+                        {
+                            "nameCode": {
+                                "shortName": "Data Center"
+                            }
+                        }
+                    ],
+                    "jobTitle": "Software Engineer II",
+                    "reportsTo": {
+                        "associateOID": "G3TGKWBEMH68TCM8",
+                        "reportsToWorkerName": {
+                            "givenName": "Andrew",
+                            "familyName1": "Horner"
+                        }
+                    },
+                    "payrollGroupCode": "9JT"
+                }
+            ],
+            "workerDates": {
+                "originalHireDate": "2010-9-9"
+            },
+            "workerStatus": {
+                "statusCode": {
+                    "codeValue": "Active"
+                }
+            }
+        }
+    ]
+}

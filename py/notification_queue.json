@@ -1,0 +1,173 @@
+{
+    "notifications": [
+        {
+            "data": {
+                "eventContext": {
+                    "worker": {
+                        "associateOID": "EEXBTRPW8SG4YBX1"
+                    }
+                },
+                "output": {
+                    "worker": {
+                        "associateOID": "EEXBTRPW8SG4YBX1",
+                        "person": {
+                            "legalName": {
+                                "familyName1": "Travis"
+                            }
+                        }
+                    }
+                }
+            },
+            "eventID": "jnfg0ekq-o7fk-ufx3-1pr6vtxtncg6",
+            "eventNameCode": {
+                "codeValue": "worker.legal-name.change"
+            }
+        },
+        {
+            "data": {
+                "eventContext": {
+                    "worker": {
+                        "associateOID": "EKVC2WKD9N2M171K"
+                    }
+                },
+                "output": {
+                    "worker": {
+                        "associateOID": "EKVC2WKD9N2M171K",
+                        "person": {
+                            "legalName": {
+                                "nickName": "Matilda"
+                            }
+                        }
+                    }
+                }
+            },
+            "eventID": "rc3zh3ko-7u60-5rkq-ykx6gbdmzrgn",
+            "eventNameCode": {
+                "codeValue": "worker.preferred-name.change"
+            }
+        },
+        {
+            "data": {
+                "eventContext": {
+                    "worker": {
+                        "associateOID": "MKBOKK7451L31SFK"
+                    }
+                },
+                "output": {
+                    "worker": {
+                        "associateOID": "MKBOKK7451L31SFK",
+                        "person": {
+                            "legalName": {
+                                "givenName": "Khaleesi",
+                                "familyName1": "Moss",
+                                "nickName": "Skylar",
+                                "genderCode": {
+                                    "codeValue": "F"
+                                }
+                            },
+                            "legalAddress": {
+                                "lineOne": "78977 Obstructive Way",
+                                "cityName": "Heroical",
+                                "countrySubdivisionLevel1": {
+                                    "codeValue": "MS",
+                                    "shortName": "Mississippi"
+                                },
+                                "countryCode": "US",
+                                "postalCode": 29456
+                            },
+                            "communication": {
+                                "mobiles": [
+                                    {
+                                        "countryDialing": 1,
+                                        "areaDialing": 763,
+                                        "dialNumber": 6606841
+                                    }
+                                ]
+                            }
+                        },
+                        "workAssignments": [
+                            {
+                                "homeOrganizationalUnits": [
+                                    {
+                                        "nameCode": {
+                                            "shortName": "Marketing"
+                                        }
+                                    }
+                                ],
+                                "jobTitle": "Software Developer",
+                                "reportsTo": {
+                                    "associateOID": "G3PHKM05VKGQAATW",
+                                    "reportsToWorkerName": {
+                                        "givenName": "William",
+                                        "familyName1": "White"
+                                    }
+                                },
+                                "payrollGroupCode": "9JT"
+                            }
+                        ],
+                        "workerDates": {
+                            "originalHireDate": "2021-6-21"
+                        },
+                        "workerStatus": {
+                            "statusCode": {
+                                "codeValue": "Active"
+                            }
+                        }
+                    }
+                }
+            },
+            "eventID": "unj6vgr4-mnlh-85ep-z758yrvepxpb",
+            "eventNameCode": {
+                "codeValue": "worker.hire"
+            }
+        },
+        {
+            "data": {
+                "eventContext": {
+                    "worker": {
+                        "associateOID": "V3VI4S148TM5XRIQ"
+                    }
+                },
+                "output": {
+                    "worker": {
+                        "associateOID": "V3VI4S148TM5XRIQ",
+                        "workerStatus": {
+                            "statusCode": {
+                                "codeValue": "Terminated"
+                            }
+                        }
+                    }
+                }
+            },
+            "eventID": "x25vy7lr-45bs-qpqt-ww63anai90fm",
+            "eventNameCode": {
+                "codeValue": "worker.terminate"
+            }
+        },
+        {
+            "data": {
+                "eventContext": {
+                    "worker": {
+                        "associateOID": "A9UCIUJ1AMRDQV7D"
+                    }
+                },
+                "output": {
+                    "worker": {
+                        "associateOID": "A9UCIUJ1AMRDQV7D",
+                        "reportsTo": {
+                            "associateOID": "G3ZYWH2X2YNJZ3V3",
+                            "reportsToWorkerName": {
+                                "givenName": "Valerie",
+                                "familyName1": "McKain"
+                            }
+                        }
+                    }
+                }
+            },
+            "eventID": "qln0ecrm-iebe-n44g-hfqoszdlzhb1",
+            "eventNameCode": {
+                "codeValue": "worker.reports-to.modify"
+            }
+        }
+    ]
+}
